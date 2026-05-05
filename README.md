@@ -10,6 +10,8 @@ In our report we also used several images not currently in the codebase. There i
 
 **URL:** https: //notebooklm.google.com/notebook/71b300cd-7459-4514-a576-5b9620dc9d38 
 
+_may need to request access to this notebook_
+
 **Dates Used:** April 18, 19, 20, and May 3
 
 **Where used:** Used to better comprehend the algorithm and its individual components. This information was used to inform the report part of the project. Prompts and answers can be seen the chat link given. To verify the information, the papers cited in the report were checked to ensure that information was correct and being clearly understood. The outputs were not directly put in the report but rather used as another source of information for better understanding. 
